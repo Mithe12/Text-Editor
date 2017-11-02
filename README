@@ -1,0 +1,12 @@
+This is a project developed as part of the second course of Java Specialization at Coursera.org
+
+Specialization name: "Java Programming: Object-Oriented Design of Data Structures" by UC San Diego.
+URL: https://www.coursera.org/specializations/java-object-oriented
+Course name: "Data structures: Measuring and Optimizing Performance"
+
+Implemented:  
+1. How easy to read is the input text? : Calculating Flesch Index of the input text.  
+2. Markov chain text generator. (https://en.wikipedia.org/wiki/Markov_chain)  
+3. Spell Check and Auto Complete  
+4. Spelling suggestions  
+5. Word paths  
